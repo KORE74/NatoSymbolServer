@@ -1,0 +1,7 @@
+/bin
+/obj
+/.vs
+test_db.sqlite
+*.bak
+*.uid
+
