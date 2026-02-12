@@ -74,6 +74,49 @@ public enum NatoPlatformFunction
     Vip
 }
 
+public enum NatoPlatformModifier
+{
+    Attack,
+    Bomber,
+    Cargo,
+    Fighter,
+    Interceptor,
+    Tanker,
+    Utility,
+    Vstol,
+    Passenger,
+    UltraLight,
+    AirborneCommandPost,
+    AntisurfaceWarfare,
+    AirborneEarlyWarning,
+    Government,
+    Medevac,
+    Escort,
+    IntensiveCare,
+    JammerElectronicCounterMeasures,
+    Patrol,
+    Reconnaissance,
+    Trainer,
+    PhotographicReconnaissance,
+    PersonnelRecovery,
+    AntisubmarineWarfare,
+    Communications,
+    ElectronicSurveillanceMeasures,
+    MineCountermeasures,
+    SearchAndRescue,
+    SpecialOperationsForces,
+    SurfaceWarfare,
+    vipTransport,
+    CombatSearchAndRescue,
+    SuppressionOfEnemyAirDefences
+}
+
+
+
+
+
+
+
 public enum DrawMode
 {
     Fill,
